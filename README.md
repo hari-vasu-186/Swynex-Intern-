@@ -1,21 +1,18 @@
-# SWYNEX Machine Learning Internship
+# Task 4 – End-to-End Machine Learning Project
 
-## About
-This repository contains my practical assignments and projects completed during my Machine Learning Internship at SWYNEX.
+## Objective
+To develop a complete machine learning project by applying the knowledge gained from previous tasks.
 
-## Internship Tasks
-
-### Task 1 – Dataset Exploration and Preprocessing
-Exploring, analysing, cleaning and preprocessing datasets using Python.
-
-### Task 2 – Machine Learning Model Development
-Building and training machine learning models using suitable algorithms.
-
-### Task 3 – Model Improvement
-Improving model performance through optimization and hyperparameter tuning.
-
-### Task 4 – End-to-End Machine Learning Project
-Developing a complete machine learning project from data collection to model evaluation.
+## Project Workflow
+1. Define the problem statement.
+2. Collect a suitable dataset.
+3. Perform exploratory data analysis.
+4. Clean and preprocess the data.
+5. Select relevant features.
+6. Train a machine learning model.
+7. Evaluate model performance.
+8. Improve the model if required.
+9. Present the final results.
 
 ## Technologies
 - Python
@@ -27,11 +24,8 @@ Developing a complete machine learning project from data collection to model eva
 - Google Colab
 - GitHub
 
-## Repository Structure
-- Task-1-Dataset-Exploration/
-- Task-2-ML-Model/
-- Task-3-Model-Improvement/
-- Task-4-End-to-End-project/
+## Expected Outcome
+Develop a complete machine learning workflow, from raw data to final model evaluation.
 
-## Author
-Hariharasudhan V
+## Status
+Planned – Project implementation and results will be added after completing the task.
