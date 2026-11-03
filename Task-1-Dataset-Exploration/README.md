@@ -1,37 +1,34 @@
-# SWYNEX Machine Learning Internship
+# Task 1 – Dataset Exploration and Preprocessing
 
-## About
-This repository contains my practical assignments and projects completed during my Machine Learning Internship at SWYNEX.
+## Objective
+To explore, analyse, clean and preprocess a dataset using Python libraries.
 
-## Internship Tasks
+## Dataset
+**Titanic Survival Prediction Dataset**
 
-### Task 1 – Dataset Exploration and Preprocessing
-Exploring, analysing, cleaning and preprocessing datasets using Python.
+Source: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
-### Task 2 – Machine Learning Model Development
-Building and training machine learning models using suitable algorithms.
-
-### Task 3 – Model Improvement
-Improving model performance through optimization and hyperparameter tuning.
-
-### Task 4 – End-to-End Machine Learning Project
-Developing a complete machine learning project from data collection to model evaluation.
-
-## Technologies
+## Tools and Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
 - Google Colab
-- GitHub
 
-## Repository Structure
-- Task-1-Dataset-Exploration/
-- Task-2-ML-Model/
-- Task-3-Model-Improvement/
-- Task-4-End-to-End-project/
+## Activities
+1. Import and load the dataset.
+2. Explore dataset dimensions and columns.
+3. Analyse data types and statistical summaries.
+4. Identify missing values and duplicate records.
+5. Create visualizations.
+6. Perform data cleaning.
+7. Handle missing values.
+8. Prepare the cleaned dataset for further analysis.
 
-## Author
-Hariharasudhan V
+## Folder Structure
+- data/ – Original CSV dataset.
+- notebooks/ – Python analysis notebook.
+
+## Expected Outcome
+Understand the dataset, identify useful patterns and prepare clean data for machine learning.
